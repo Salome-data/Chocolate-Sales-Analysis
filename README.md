@@ -122,7 +122,7 @@ Includes key metrics such as:
 ## 👩🏽‍💻 Author
 **Salome Aondoakaa**
 
-Data Analys
+Data Analyst
 
 ---
 
