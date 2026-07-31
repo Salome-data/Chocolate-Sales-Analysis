@@ -119,11 +119,13 @@ Includes key metrics such as:
 > *![Performance Scorecards](Images/02-Performance-scorecard.png)*
 
 
-## 👩🏽‍💻 Author
-**Salome Aondoakaa**
+### ⭐ If you found this project interesting, consider giving it a star
 
-Data Analyst
 
----
 
-### ⭐ If you found this project interesting, consider giving it a star!
+
+
+                                                                                                                          ## 👩🏽‍💻 Author
+                                                                                                                          **Salome Aondoakaa**
+                                                                                                                          
+                                                                                                                               Data Analyst
