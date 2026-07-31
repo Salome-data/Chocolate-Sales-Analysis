@@ -122,10 +122,10 @@ Includes key metrics such as:
 ### ⭐ If you found this project interesting, consider giving it a star
 
 
+---
 
 
-
-                                                                                                                          ## 👩🏽‍💻 Author ##
+                                                                                                                               👩🏽‍💻Author
                                                                                                                             Salome Aondoakaa
                                                                                                                           
                                                                                                                                Data Analyst
