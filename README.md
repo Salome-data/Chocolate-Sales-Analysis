@@ -113,17 +113,16 @@ Includes key metrics such as:
 
 ### Executive Sales Overview
 
-> *![Chocolate Sales Dashboard](Images/Executive_Overview.png)*
+> *![Chocolate Sales Dashboard](Images/01-Executive_Overview.png)*
 ### Performance Scorecards
 
-> *![Performance Scorecards](Images/Performance_Scorecards.png)*
+> *![Performance Scorecards](Images/02-Performance-scorecard.png)*
 
 
 ## 👩🏽‍💻 Author
-
 **Salome Aondoakaa**
 
-Data Analyst passionate about transforming raw data into meaningful insights through analytics, visualization, and storytelling.
+Data Analys
 
 ---
 
