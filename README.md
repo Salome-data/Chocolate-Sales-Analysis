@@ -125,7 +125,7 @@ Includes key metrics such as:
 
 
 
-                                                                                                                          ## 👩🏽‍💻 Author
-                                                                                                                          **Salome Aondoakaa**
+                                                                                                                          ## 👩🏽‍💻 Author ##
+                                                                                                                            Salome Aondoakaa
                                                                                                                           
                                                                                                                                Data Analyst
